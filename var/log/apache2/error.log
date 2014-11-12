@@ -1,0 +1,24 @@
+[Wed Nov 12 12:02:09.467164 2014] [mpm_event:notice] [pid 9496:tid 140604404180864] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Wed Nov 12 12:02:09.467259 2014] [core:notice] [pid 9496:tid 140604404180864] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 12 12:02:13.944361 2014] [mpm_event:notice] [pid 9496:tid 140604404180864] AH00491: caught SIGTERM, shutting down
+[Wed Nov 12 12:02:14.996286 2014] [mpm_prefork:notice] [pid 11296] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Wed Nov 12 12:02:14.996357 2014] [core:notice] [pid 11296] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 12 12:02:16.251585 2014] [mpm_prefork:notice] [pid 11296] AH00169: caught SIGTERM, shutting down
+[Wed Nov 12 12:02:17.355905 2014] [mpm_prefork:notice] [pid 11382] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Nov 12 12:02:17.355960 2014] [core:notice] [pid 11382] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 12 12:06:23.279433 2014] [mpm_prefork:notice] [pid 11382] AH00169: caught SIGTERM, shutting down
+[Wed Nov 12 12:06:25.000414 2014] [:notice] [pid 22339] ModSecurity for Apache/2.7.7 (http://www.modsecurity.org/) configured.
+[Wed Nov 12 12:06:25.000555 2014] [:notice] [pid 22339] ModSecurity: APR compiled version="1.5.1-dev"; loaded version="1.5.1-dev"
+[Wed Nov 12 12:06:25.000568 2014] [:notice] [pid 22339] ModSecurity: PCRE compiled version="8.31 "; loaded version="8.31 2012-07-06"
+[Wed Nov 12 12:06:25.000575 2014] [:notice] [pid 22339] ModSecurity: LUA compiled version="Lua 5.1"
+[Wed Nov 12 12:06:25.000579 2014] [:notice] [pid 22339] ModSecurity: LIBXML compiled version="2.9.1"
+[Wed Nov 12 12:06:26.001440 2014] [mpm_prefork:notice] [pid 22340] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Nov 12 12:06:26.001500 2014] [core:notice] [pid 22340] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 12 12:07:37.761186 2014] [mpm_prefork:notice] [pid 22340] AH00169: caught SIGTERM, shutting down
+[Wed Nov 12 12:07:39.001453 2014] [:notice] [pid 22422] ModSecurity for Apache/2.7.7 (http://www.modsecurity.org/) configured.
+[Wed Nov 12 12:07:39.001641 2014] [:notice] [pid 22422] ModSecurity: APR compiled version="1.5.1-dev"; loaded version="1.5.1-dev"
+[Wed Nov 12 12:07:39.001657 2014] [:notice] [pid 22422] ModSecurity: PCRE compiled version="8.31 "; loaded version="8.31 2012-07-06"
+[Wed Nov 12 12:07:39.001666 2014] [:notice] [pid 22422] ModSecurity: LUA compiled version="Lua 5.1"
+[Wed Nov 12 12:07:39.001672 2014] [:notice] [pid 22422] ModSecurity: LIBXML compiled version="2.9.1"
+[Wed Nov 12 12:07:40.004189 2014] [mpm_prefork:notice] [pid 22423] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.5 configured -- resuming normal operations
+[Wed Nov 12 12:07:40.004267 2014] [core:notice] [pid 22423] AH00094: Command line: '/usr/sbin/apache2'

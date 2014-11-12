@@ -1,0 +1,3 @@
+192.168.244.1 - - [12/Nov/2014:12:04:44 -0800] "GET / HTTP/1.1" 200 3594 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.52 Safari/537.36"
+192.168.244.1 - - [12/Nov/2014:12:04:44 -0800] "GET /icons/ubuntu-logo.png HTTP/1.1" 200 3688 "http://192.168.244.132/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.52 Safari/537.36"
+192.168.244.1 - - [12/Nov/2014:12:04:45 -0800] "GET /favicon.ico HTTP/1.1" 404 504 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.52 Safari/537.36"
